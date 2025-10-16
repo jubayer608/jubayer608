@@ -1,148 +1,77 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co/q9MzkTP/github-banner.png" alt="Jubayer Hossan's GitHub Banner" width="100%" />
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-# Hi there 👋, I'm **Jubayer Hossan**
-### Front-End Developer | Student | Tech Enthusiast
-📍 *Bangladesh*  
-📧 **jubaihasan88@gmail.com**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
----
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-## 🧑‍💻 About Me
-I'm a passionate Front-End Developer building interactive and responsive web applications.  
-Currently exploring **React, Next.js, Three.js**, and modern web technologies.  
-Always eager to learn and contribute to open-source projects.
+<br/>
 
----
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-## 🔧 My Tech Stack
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-### Frontend
-<p align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"/>
-</p>
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-### Backend & Tools
-<p align="left">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"/>
-</p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-## 📌 Featured Projects
+<br/>
+<hr/>
 
-### 🔗 [TaskCoin Client – Micro-Task & Earning Platform](https://github.com/jubayer608/task-coin-client-a12)
-**Description:**  
-A modern micro-task platform where users can post tasks, complete them, and earn rewards.  
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-**Tech Stack:**  
-React, Vite, Tailwind CSS, Firebase Hosting  
+<hr/>
 
-**Core Features:**  
-- User authentication via Firebase  
-- Real-time task updates  
-- Responsive design with Tailwind CSS  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
+<br/><br/>
 
-### 🔗 [TaskCoin Server – Backend API](https://github.com/jubayer608/task-coin-server-a12)
-**Description:**  
-Backend API for TaskCoin providing secure endpoints for task management and user roles.  
+<hr/>
 
-**Tech Stack:**  
-Node.js, Express.js, Firebase Admin SDK, JWT Authentication  
+<br/>
 
-**Core Features:**  
-- Role-based access control (Admin, Buyer, Worker)  
-- Secure API routes with JWT  
-- Firebase Admin SDK integration  
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
----
-
-### 🔗 [Artifacts Tracker Client – Historical Artifacts Discovery](https://github.com/jubayer608/artifacts-tracker-client-a11)
-**Description:**  
-Discover and manage historical artifacts with a responsive and modern UI.  
-
-**Tech Stack:**  
-React, Vite, Tailwind CSS, Firebase Hosting  
-
-**Core Features:**  
-- Browse and search artifacts  
-- Like and save favorite artifacts  
-- Responsive design  
-
----
-
-### 🔗 [Artifacts Tracker Server – Backend API](https://github.com/jubayer608/artifacts-tracker-server-a11)
-**Description:**  
-Backend API for Artifacts Tracker handling data storage, user interactions, and artifact management.  
-
-**Tech Stack:**  
-Node.js, Express.js, Firebase Admin SDK, MongoDB  
-
-**Core Features:**  
-- CRUD operations for artifacts  
-- User authentication and authorization  
-- Integration with MongoDB  
-
----
-
-### 🔗 [Gardening Community Client – Plant Enthusiasts Hub](https://github.com/jubayer608/gardening-community-client-a10)
-**Description:**  
-A community platform for gardening enthusiasts to share tips, showcase gardens, and connect.  
-
-**Tech Stack:**  
-React, Vite, Tailwind CSS, Firebase Hosting  
-
-**Core Features:**  
-- User profiles and dashboards  
-- Community posts and discussions  
-- Responsive design  
-
----
-
-### 🔗 [Gardening Community Server – Backend API](https://github.com/jubayer608/gardening-community-server-a10)
-**Description:**  
-Backend API for Gardening Community supporting user authentication and post management.  
-
-**Tech Stack:**  
-Node.js, Express.js, Firebase Admin SDK, MongoDB  
-
-**Core Features:**  
-- User authentication and role management  
-- CRUD operations for posts and comments  
-- Real-time notifications  
-
----
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/jubayerhossan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jubayerhossan)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/jubayerhossan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://jubayer.vercel.app)
-
----
-
-## 📞 Contact
-📍 **Bangladesh**  
-📧 **jubaihasan88@gmail.com**
-
----
-
-> 🧭 *“Code. Learn. Build. Repeat.”* — Always growing, one commit at a time.
+<br/>
 
