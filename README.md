@@ -98,6 +98,7 @@ Frontend of a Gardening Community App. Share tips, like posts, and browse public
 Backend server for Gardening Community App. Handles CRUD operations for tips, likes, and user authentication.  
 **Tech:** Node.js, Express, MongoDB, Firebase
 
+
 ---
 
 <div align="center">
