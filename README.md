@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/xCf3XNmn/Gemini-Generated-Image-4uqf0p4uqf0p4uqf-1-1.png" width:"1580px" height:"380px"  />
+  <img src="https://i.postimg.cc/y8zDv48v/github-header-banner.png"  />
 </p>
 
 <!-- Typing Effect -->
