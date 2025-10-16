@@ -1,34 +1,25 @@
-<!-- Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/q9MzkTP/github-banner.png" alt="banner" width="100%" />
+  <img src="https://i.ibb.co/q9MzkTP/github-banner.png" alt="Jubayer Hossan's GitHub Banner" width="100%" />
 </p>
 
-# Hi 👋, I'm **Jubayer Hossan**
-### 🎓 Student | 💻 Front-End Developer | 🌐 Web Enthusiast
+# Hi there 👋, I'm **Jubayer Hossan**
+### Front-End Developer | Student | Tech Enthusiast
 📍 *Bangladesh*  
 📧 **jubaihasan88@gmail.com**
 
 ---
 
 ## 🧑‍💻 About Me
-I’m a passionate Front-End Developer and technology enthusiast.  
-I love building modern, responsive, and user-friendly web applications.  
-Currently exploring **Next.js**, **Three.js**, and **modern web animations** to enhance UI/UX experiences.  
-Always curious to learn new technologies and grow through collaboration and open-source.
+I'm a passionate Front-End Developer building interactive and responsive web applications.  
+Currently exploring **React, Next.js, Three.js**, and modern web technologies.  
+Always eager to learn and contribute to open-source projects.
 
 ---
 
-## 🔭 Current Activities
-- 🚀 Exploring **Next.js** and server-side rendering.
-- 🌱 Learning **Three.js** for 3D Web Experiences.
-- 💡 Building interactive websites using **React** and **Tailwind CSS**.
-- ☁️ Deploying projects on **Vercel** and **Netlify**.
+## 🔧 My Tech Stack
 
----
-
-## 🛠️ My Tech Stack
-
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
@@ -40,7 +31,7 @@ Always curious to learn new technologies and grow through collaboration and open
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Tools
+### Backend & Tools
 <p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
@@ -52,47 +43,98 @@ Always curious to learn new technologies and grow through collaboration and open
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayerhossan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerhossan&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerhossan&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
-### 🔗 [Historical Artifacts Tracker](https://github.com/jubayerhossan/historical-artifacts-tracker)
-A full-stack MERN app for tracking and showcasing historical artifacts.  
-**Tech:** React, Node.js, MongoDB, Firebase  
-⭐ Features: Like System · Add/Update/Delete · Private Routes · JWT Authentication
+### 🔗 [TaskCoin Client – Micro-Task & Earning Platform](https://github.com/jubayer608/task-coin-client-a12)
+**Description:**  
+A modern micro-task platform where users can post tasks, complete them, and earn rewards.  
+
+**Tech Stack:**  
+React, Vite, Tailwind CSS, Firebase Hosting  
+
+**Core Features:**  
+- User authentication via Firebase  
+- Real-time task updates  
+- Responsive design with Tailwind CSS  
 
 ---
 
-### 🔗 [Parcel Delivery System](https://github.com/jubayerhossan/parcel-delivery)
-A parcel delivery app with role-based authentication and integrated Stripe payments.  
-**Tech:** React, Express.js, MongoDB, Firebase, Stripe, Vercel  
-🚚 Features: Parcel Pricing · Admin Dashboard · Real-time Tracking
+### 🔗 [TaskCoin Server – Backend API](https://github.com/jubayer608/task-coin-server-a12)
+**Description:**  
+Backend API for TaskCoin providing secure endpoints for task management and user roles.  
+
+**Tech Stack:**  
+Node.js, Express.js, Firebase Admin SDK, JWT Authentication  
+
+**Core Features:**  
+- Role-based access control (Admin, Buyer, Worker)  
+- Secure API routes with JWT  
+- Firebase Admin SDK integration  
 
 ---
 
-### 🔗 [Micro Task Earning Platform](https://github.com/jubayerhossan/micro-task-platform)
-A platform where users can complete micro tasks and earn points.  
-**Tech:** React, Node.js, MongoDB, Firebase Auth, Tailwind CSS  
-💰 Features: Role-based Dashboard · Secure API · Task CRUD System
+### 🔗 [Artifacts Tracker Client – Historical Artifacts Discovery](https://github.com/jubayer608/artifacts-tracker-client-a11)
+**Description:**  
+Discover and manage historical artifacts with a responsive and modern UI.  
+
+**Tech Stack:**  
+React, Vite, Tailwind CSS, Firebase Hosting  
+
+**Core Features:**  
+- Browse and search artifacts  
+- Like and save favorite artifacts  
+- Responsive design  
+
+---
+
+### 🔗 [Artifacts Tracker Server – Backend API](https://github.com/jubayer608/artifacts-tracker-server-a11)
+**Description:**  
+Backend API for Artifacts Tracker handling data storage, user interactions, and artifact management.  
+
+**Tech Stack:**  
+Node.js, Express.js, Firebase Admin SDK, MongoDB  
+
+**Core Features:**  
+- CRUD operations for artifacts  
+- User authentication and authorization  
+- Integration with MongoDB  
+
+---
+
+### 🔗 [Gardening Community Client – Plant Enthusiasts Hub](https://github.com/jubayer608/gardening-community-client-a10)
+**Description:**  
+A community platform for gardening enthusiasts to share tips, showcase gardens, and connect.  
+
+**Tech Stack:**  
+React, Vite, Tailwind CSS, Firebase Hosting  
+
+**Core Features:**  
+- User profiles and dashboards  
+- Community posts and discussions  
+- Responsive design  
+
+---
+
+### 🔗 [Gardening Community Server – Backend API](https://github.com/jubayer608/gardening-community-server-a10)
+**Description:**  
+Backend API for Gardening Community supporting user authentication and post management.  
+
+**Tech Stack:**  
+Node.js, Express.js, Firebase Admin SDK, MongoDB  
+
+**Core Features:**  
+- User authentication and role management  
+- CRUD operations for posts and comments  
+- Real-time notifications  
 
 ---
 
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/jubayerhossan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:jubaihasan88@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://vercel.com/jubayerhossan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/jubayerhossan)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/jubayerhossan)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://jubayer.vercel.app)
 
 ---
 
@@ -103,3 +145,4 @@ A platform where users can complete micro tasks and earn points.
 ---
 
 > 🧭 *“Code. Learn. Build. Repeat.”* — Always growing, one commit at a time.
+
