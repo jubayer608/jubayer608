@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/R0MdKmTB/Gemini-Generated-Image-slh8n5slh8n5slh8.png"  />
+  <img src="https://i.postimg.cc/Vkqq4Nfh/Blue-and-Orange-Geometric-Web-Developer-Linked-In-Banner-1.png"  />
 </p>
 
 <!-- Typing Effect -->
