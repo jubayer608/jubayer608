@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/R0MdKmTB/Gemini-Generated-Image-slh8n5slh8n5slh8.png" width="100%" />
+  <img src="https://i.postimg.cc/R0MdKmTB/Gemini-Generated-Image-slh8n5slh8n5slh8.png" width="100%" height=50%" />
 </p>
 
 <!-- Typing Effect -->
