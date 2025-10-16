@@ -75,11 +75,11 @@
 ## 📌 Pinned Projects
 
 
-[![Task-Coin Client](https://img.shields.io/badge/Task-Coin_Client-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jubayer608/task-coin-client-a12)  
+[![Task-Coin Client](https://img.shields.io/badge/Task--Coin--Client-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jubayer608/task-coin-client-a12)  
 Client-side application of Task-Coin — a micro-task & earning platform. Users can browse tasks, post tasks, and track earnings.  
 **Tech:** React, Tailwind CSS, Firebase, Vercel  
 
-[![Task-Coin Server](https://img.shields.io/badge/Task-Coin_Server-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/jubayer608/task-coin-server-a12)  
+[![Task-Coin Server](https://img.shields.io/badge/Task--Coin--Server-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/jubayer608/task-coin-server-a12)  
 Backend server for Task-Coin. Handles authentication, task management, payments, and user data securely.  
 **Tech:** Node.js, Express, MongoDB, Firebase
 
