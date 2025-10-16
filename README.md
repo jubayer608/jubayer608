@@ -47,14 +47,12 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jubayer608/jubayer608/output/github-contribution-grid-snake.svg" />
 </div>
 
-
 <hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 
 <div align="center">
-  
   <!-- Streak Stats -->
   <img width="390" src="https://streak-stats.demolab.com?user=jubayer608&theme=react&hide_border=false" alt="GitHub Streak"/>
 
@@ -65,19 +63,14 @@
 
   <!-- Top Languages -->
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer608&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
-
 </div>
 
-
 <br/><br/>
-
 <hr/>
 
 <div align="center">
-  <!-- Coffee link or any supporter link if you want -->
-  <a href='https://ko-fi.com/your_kofi_id' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+  <h2>🌟 Let's Connect 🌟</h2>
+  <p>Follow me on LinkedIn, check my portfolio, or reach out via email. Let's build something amazing together! 💻✨</p>
 </div>
-
-<br/>
 
 
