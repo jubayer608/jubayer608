@@ -49,14 +49,24 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
+
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerhossan&theme=default&count_private=true&border_radius=10" alt="GitHub Streak Stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jubayerhossan&count_private=true&show_icons=true&theme=default&border_radius=10" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img width="390" src="https://streak-stats.demolab.com?user=jubayer608&theme=react&hide_border=false" alt="GitHub Streak"/>
+
+  <!-- GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=jubayer608&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerhossan&langs_count=8&layout=compact&theme=default&exclude_repo=github-readme-stats" alt="Top Languages" />
+
+  <!-- Top Languages -->
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer608&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+
 </div>
+
 
 <br/><br/>
 
