@@ -74,29 +74,30 @@
 
 ## 📌 Pinned Projects
 
-[![Task-Coin Client](https://img.shields.io/badge/Task-Coin_Client-React-blue?style=for-the-badge)](https://github.com/jubayer608/task-coin-client-a12)  
+[![Task-Coin Client](https://img.shields.io/badge/Task-Coin_Client-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jubayer608/task-coin-client-a12)  
 Client-side application of Task-Coin — a micro-task & earning platform. Users can browse tasks, post tasks, and track earnings.  
 **Tech:** React, Tailwind CSS, Firebase, Vercel  
 
-[![Task-Coin Server](https://img.shields.io/badge/Task-Coin_Server-Node.js-green?style=for-the-badge)](https://github.com/jubayer608/task-coin-server-a12)  
+[![Task-Coin Server](https://img.shields.io/badge/Task-Coin_Server-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/jubayer608/task-coin-server-a12)  
 Backend server for Task-Coin. Handles authentication, task management, payments, and user data securely.  
 **Tech:** Node.js, Express, MongoDB, Firebase  
 
-[![Artifacts Tracker Client](https://img.shields.io/badge/Artifacts_Tracker_Client-React-blue?style=for-the-badge)](https://github.com/jubayer608/artifacts-tracker-client-a11)  
+[![Artifacts Tracker Client](https://img.shields.io/badge/Artifacts_Tracker_Client-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jubayer608/artifacts-tracker-client-a11)  
 Frontend of Historical Artifacts Tracker. Browse, view details, like artifacts, and add contributions.  
 **Tech:** React, Tailwind CSS, Firebase, Vercel  
 
-[![Artifacts Tracker Server](https://img.shields.io/badge/Artifacts_Tracker_Server-Node.js-green?style=for-the-badge)](https://github.com/jubayer608/artifacts-tracker-server-a11)  
+[![Artifacts Tracker Server](https://img.shields.io/badge/Artifacts_Tracker_Server-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/jubayer608/artifacts-tracker-server-a11)  
 Backend for Artifacts Tracker platform. Manages artifacts, likes, user authentication, and secure data operations.  
 **Tech:** Node.js, Express, MongoDB, Firebase  
 
-[![Gardening Community Client](https://img.shields.io/badge/Gardening_Community_Client-React-blue?style=for-the-badge)](https://github.com/jubayer608/gardening-community-client-a10)  
+[![Gardening Community Client](https://img.shields.io/badge/Gardening_Community_Client-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jubayer608/gardening-community-client-a10)  
 Frontend of a Gardening Community App. Share tips, like posts, and browse public gardening content.  
 **Tech:** React, Tailwind CSS, Firebase, Vercel  
 
-[![Gardening Community Server](https://img.shields.io/badge/Gardening_Community_Server-Node.js-green?style=for-the-badge)](https://github.com/jubayer608/gardening-community-server-a10)  
+[![Gardening Community Server](https://img.shields.io/badge/Gardening_Community_Server-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/jubayer608/gardening-community-server-a10)  
 Backend server for Gardening Community App. Handles CRUD operations for tips, likes, and user authentication.  
 **Tech:** Node.js, Express, MongoDB, Firebase
+
 
 
 ---
