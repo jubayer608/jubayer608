@@ -74,7 +74,6 @@
 
 ## 📌 Pinned Projects
 
-## 📌 Pinned Projects
 
 [![Task-Coin Client](https://img.shields.io/badge/Task-Coin_Client-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jubayer608/task-coin-client-a12)  
 Client-side application of Task-Coin — a micro-task & earning platform. Users can browse tasks, post tasks, and track earnings.  
