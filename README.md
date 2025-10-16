@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://YOUR_BANNER_IMAGE_URL" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co.com/dsp9ksY2/Gemini-Generated-Image-slh8n5slh8n5slh8.png" alt="Banner Image" width="100%" />
 </p>
 
 <!-- Typing Effect -->
