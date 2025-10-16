@@ -74,7 +74,7 @@
 
 ## 📌 Pinned Projects
 
-[![Task-Coin Client](https://img.shields.io/badge/Task-Coin_Client-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jubayer608/task-coin-client-a12) 
+[![Task-Coin Client](https://img.shields.io/badge/Task-Coin_Client-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/jubayer608/task-coin-client-a12)  
 Client-side application of Task-Coin — a micro-task & earning platform. Users can browse tasks, post tasks, and track earnings.  
 **Tech:** React, Tailwind CSS, Firebase, Vercel  
 
@@ -97,6 +97,7 @@ Frontend of a Gardening Community App. Share tips, like posts, and browse public
 [![Gardening Community Server](https://img.shields.io/badge/Gardening_Community_Server-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/jubayer608/gardening-community-server-a10)  
 Backend server for Gardening Community App. Handles CRUD operations for tips, likes, and user authentication.  
 **Tech:** Node.js, Express, MongoDB, Firebase
+
 
 
 
