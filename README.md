@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/y8zDv48v/github-header-banner.png"  />
+  <img src="https://i.postimg.cc/W4T3ffPY/github-header-banner-3.png"  />
 </p>
 
 <!-- Typing Effect -->
