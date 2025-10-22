@@ -1,7 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.postimg.cc/W4T3ffPY/github-header-banner-3.png"  />
-</p>
+![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/IshanOshada)
 
 <!-- Typing Effect -->
 <h1 align="center">
