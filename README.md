@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/IshanOshada)
+![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/JubayerHossan)
 
 <!-- Typing Effect -->
 <h1 align="center">
