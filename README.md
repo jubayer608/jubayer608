@@ -18,7 +18,7 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:jubaihasan88@gmail.com">
+  <a href="mailto:jubayerhossan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/jubayer-hossan" target="_blank">
@@ -27,7 +27,7 @@
   <a href="https://github.com/jubayer608" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://my-personal-portfolio-8gpa.vercel.app/" target="_blank">
+  <a href="https://jubayer-hossan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
