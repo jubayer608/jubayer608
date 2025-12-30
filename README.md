@@ -11,8 +11,8 @@
 <br/>
 
 <div align="center">
-   I’m currently working on **Client-side web projects & exploring 3D web (Three.js)** 
-   I’m currently learning **Next.js, Three.js, advanced JS**  
+   I’m currently working on <h4>>Client-side web projects & exploring 3D web (Three.js)</h4
+   I’m currently learning <h4>Next.js, Three.js, advanced JS</h4>  
 
    Ask me about **React, JavaScript, Tailwind CSS, Node.js, Firebase...** or open an issue in any of my repos  
 </div>
