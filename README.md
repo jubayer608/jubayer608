@@ -11,10 +11,10 @@
 <br/>
 
 <div align="center">
-  🔭 I’m currently working on **Client-side web projects & exploring 3D web (Three.js)**  
-  🌱 I’m currently learning **Next.js, Three.js, advanced JS**  
+   I’m currently working on **Client-side web projects & exploring 3D web (Three.js)** 
+   I’m currently learning **Next.js, Three.js, advanced JS**  
 
-  💬 Ask me about **React, JavaScript, Tailwind CSS, Node.js, Firebase...** or open an issue in any of my repos  
+   Ask me about **React, JavaScript, Tailwind CSS, Node.js, Firebase...** or open an issue in any of my repos  
 </div>
 
 <div align="center"> 
@@ -103,8 +103,8 @@ Backend server for Gardening Community App. Handles CRUD operations for tips, li
 ---
 
 <div align="center">
-  <h2>🌟 Let's Connect 🌟</h2>
-  <p>Follow me on LinkedIn, check my portfolio, or reach out via email. Let's build something amazing together! 💻✨</p>
+  <h2> Let's Connect </h2>
+  <p>Follow me on LinkedIn, check my portfolio, or reach out via email. Let's build something amazing together!</p>
 </div>
 
 
